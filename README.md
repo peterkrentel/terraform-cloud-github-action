@@ -8,3 +8,7 @@ altered to use azure
 added svc_pron to terraform cloud for tccc-exsperiment
 
 az ad sp create-for-rbac --name tccc-devops-svc-principal --role Contributor --scopes /subscriptions/b419dd28-7117-4a6f-9af5-6223f2b06074
+
+https://youtu.be/uYkeDCNu6FE?feature=shared terraform cloud workspaces and some github actions
+
+https://youtu.be/YcfWKy8YiLo?feature=shared Mangaing environemnts with terraform
