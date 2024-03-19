@@ -14,6 +14,6 @@ variable "resource_group_name_prefix" {
 
 variable "env_var" {
   type = string
-  default = "dev"
+  default = "dev-peter"
   description = "value of the environment variable."
 }
